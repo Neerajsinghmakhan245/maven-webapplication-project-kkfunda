@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>Welcome to KK AWS DEVOPS SRE Portal New bach start at 7.30 on jan 2026 Join for sure </h1>
+    <morque><h1>Welcome to KK AWS DEVOPS SRE Portal. New batch starts at 7:30 on Jan 2026. Join for sure!</h1></morque>
     <h3>Training | Development | Consulting</h3>
 </header>
 
