@@ -59,7 +59,7 @@ pipeline
         """
               }
            }
-stage(bsnl-qa){
+stage('bsnl-qa'){
 	steps
 	{
 		build job:'bsnl-qa'
