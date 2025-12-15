@@ -59,7 +59,7 @@ pipeline
         """
               }
            }
-		stage(bsnl-UAT){
+		stage('bsnl-UAT'){
 	steps
 	{
 		build job:'bsnl-UAT'
