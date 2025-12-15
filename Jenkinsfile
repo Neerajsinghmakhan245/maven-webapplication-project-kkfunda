@@ -59,10 +59,10 @@ pipeline
         """
               }
            }
-		stage('bsnl-UAT'){
+		stage('Airtel-UAT'){
 	steps
 	{
-		build job:'bsnl-UAT'
+		build job:'Airtel-UAT'
 	}
 }
 		
