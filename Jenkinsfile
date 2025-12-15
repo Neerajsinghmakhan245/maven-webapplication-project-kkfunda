@@ -59,10 +59,10 @@ pipeline
         """
               }
            }
-stage('bsnl-qa'){
+stage('Airtel-qa'){
 	steps
 	{
-		build job:'bsnl-qa'
+		build job:'Airtel-qa'
 	}
 }
 	}//End Stage
